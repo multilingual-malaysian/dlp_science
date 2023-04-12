@@ -15,12 +15,16 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 ---
 
-1. 科学技能 Scientific Skills&emsp;&nbsp;&nbsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Chinese Writing Exercises]
-2. 科学室规则 Science Room Rules&emsp;&nbsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
-
-
-
-
+1. 科学技能 Scientific Skills - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Chinese Writing Exercises]
+2. 科学室规则 Science Room Rules - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+3. 生物和非生物 Living Things and Non-living Things - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+4. 人类 Humans - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+5. 动物 Animals - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+6. 植物 Plants - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+7. 磁铁 Magnets - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+8. 吸水能力 Absorption - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+9. 地球 The Earth - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
+10. 基本建筑 Basics of Building - &emsp;[Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
 
 [Back to Top](#top)
 
