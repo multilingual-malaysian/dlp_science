@@ -16,29 +16,17 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear3%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
+1. 科学技能 Scientific Skills - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+2. 科学规则 Science Room Rules - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+3. 人类 Humans - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+4. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+5. 植物 Plants - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+6. 测量 Measurement - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+7. 密度 Density - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+8. 酸与碱 Acid and Alkali - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+9. 太阳系 The Solar System - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+10. 机械 Machine - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 
-### Textbook Audio <a name="audio"></a>
-<iframe width="100%" height="550" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494548539&color=%23b0aa78&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-3" title="SRJKC Chinese Year 3" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 3</a></div>
-[Back to Top](#top)
-
-### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/SRJKC_resources/doc/year3/year3_chapter1.pdf" target="_blank">Chap. 1 第一单元 通往未来的路上学的路 [pg. 1-5]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter2.pdf" target="_blank">Chap. 2 第二单元 巧妙的道歉魔豆传心意 [pg. 6-10]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter3.pdf" target="_blank">Chap. 3 第三单元 小动物的智慧鸟儿筑巢 [pg. 11-15]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter4.pdf" target="_blank">Chap. 4 第四单元 温暖的亲情 [pg. 16-26]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter5.pdf" target="_blank">Chap. 5 第五单元 飞跃的想象 [pg. 27-32]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter6.pdf" target="_blank">Chap. 6 第六单元 脑筋转一转 [pg. 34-38]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter7.pdf" target="_blank">Chap. 7 第七单元 自得其乐 [pg. 39-43]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter8.pdf" target="_blank">Chap. 8 第八单元 科技改变世界 [pg. 44-52]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter9.pdf" target="_blank">Chap. 9 第九单元 创造历史的人 [pg. 53-57]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 10 第十单元 美丽的传说 [pg. 58-62]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter11.pdf" target="_blank">Chap. 11 第十一单元 舌尖上的美味 [pg. 63-67]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter12.pdf" target="_blank">Chap. 12 第十二单元 造福人类的发明 [pg. 68-72]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 18 第十八单元 自然的规律 [pg. 110-116]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 19 第十九单元 站在高楼看世界 [pg. 117-121]</a>\
-<a href="/SRJKC_resources/doc/year3/year3_chapter10.pdf" target="_blank">Chap. 20 第二十单元 特别的体验 [pg. 122-128]</a>
-
-_Note: Other chapters will be made available soon_
 
 [Back to Top](#top)
 
