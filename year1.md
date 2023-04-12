@@ -7,7 +7,6 @@ excerpt: "Science Year 1"
 ---
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
 - [Textbook Audio books 课文朗读](#audio)
-- [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)
 - Other sources:
   - Textbook Youtube Channels: [List of Youtube links](#videos)
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
@@ -18,7 +17,14 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 1. 科学技能 Scientific Skills       [Flipbook]   [PDF]   [习字 Chinese Writing Exercises]
 2. 科学室规则 Science Room Rules    [Flipbook]   [PDF]   [习字 Chinese Writing Exercises]
-3. 
+
+
+<pre>
+hello, this is
+   just an     example
+....
+</pre>
+
 
 **PDF format:**\
 <a href="/SRJKC_resources/doc/year1/year1_chapter1.pdf" target="_blank">Chap. 1 第一单元 新的开始 [pg. 1 - 5]</a>\
