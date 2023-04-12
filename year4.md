@@ -5,7 +5,7 @@ feature_text: |
 feature_image: "/SRJKC_resources/assets/images/BC_4_cover1.jpg"
 excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 ---
-![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
+![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
 
 - [Textbook Audio books 课文朗读](#audio)
 - [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)
