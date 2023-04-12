@@ -1,9 +1,9 @@
 ---
 title:
 feature_text: |
-  'SRJKC Resource Centre' is a place where you can get extra SRJKC Chinese textbook-related resources **free of charge**.
+  'DLP Science' is a place where you can get Science in Dual-Lingual form (SJKC Sains + SK DLP Science) **free of charge**.
   <a href="top"></a>
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://picsum.photos/1300/400?image=20"
 excerpt: "Resource centre for SRJKC Chinese Year 1 to Year 6"
 aside: True
 ---
