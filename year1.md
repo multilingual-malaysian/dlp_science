@@ -2,7 +2,7 @@
 title: 一年级 Year 1 
 feature_text: |
   <a href="top"></a>
-feature_image: "/SRJKC_resources/assets/images/BC_1_cover.png"
+feature_image: "/SRJKC_resources/assets/images/SC_1_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 1 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/SRJKC_resources.svg?style=flat)
