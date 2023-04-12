@@ -15,15 +15,11 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 
 ---
 
-1. 科学技能 Scientific Skills       [Flipbook]        .      [PDF]        .      [习字 Chinese Writing Exercises]
-2. 科学室规则 Science Room Rules    [Flipbook]        .      [PDF]        .      [习字 Chinese Writing Exercises]
+1. 科学技能 Scientific Skills       [Flipbook]&emsp; [PDF]&emsp;[习字 Chinese Writing Exercises]
+2. 科学室规则 Science Room Rules    [Flipbook]&emsp;[PDF]&emsp;[习字 Chinese Writing Exercises]
 
 
-<pre>
-hello, this is
-   just an     example
-....
-</pre>
+
 
 
 [Back to Top](#top)
