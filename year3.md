@@ -18,14 +18,18 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
 1. 科学技能 Scientific Skills - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 2. 科学规则 Science Room Rules - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-3. 人类 Humans - &emsp;[[Flipbook]](https://online.fliphtml5.com/pjnuy/mbbp/)&emsp; [PDF]&emsp;[习字 Writing Exercises]
-4. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-5. 植物 Plants - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-6. 测量 Measurement - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-7. 密度 Density - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-8. 酸与碱 Acid and Alkali - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-9. 太阳系 The Solar System - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-10. 机械 Machine - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+3. 人类 Humans - &emsp;<a href="https://online.fliphtml5.com/pjnuy/mbbp/" target="_blank">[Flipbook]</a>&emsp; [PDF]&emsp;[习字 Writing Exercises]
+
+
+
+
+5. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+6. 植物 Plants - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+7. 测量 Measurement - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+8. 密度 Density - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+9. 酸与碱 Acid and Alkali - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+10. 太阳系 The Solar System - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+11. 机械 Machine - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 
 
 [Back to Top](#top)
