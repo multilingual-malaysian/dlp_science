@@ -15,23 +15,36 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear5%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
-
-### Textbook Audio <a name="audio"></a>
-<iframe width="100%" height="550" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1494650551&color=%23b0aa78&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/multilingual-malaysian" title="Multilingual Malaysian" target="_blank" style="color: #cccccc; text-decoration: none;">Multilingual Malaysian</a> · <a href="https://soundcloud.com/multilingual-malaysian/sets/srjkc-chinese-year-5" title="SRJKC Chinese Year 5" target="_blank" style="color: #cccccc; text-decoration: none;">SRJKC Chinese Year 5</a></div>
-[Back to Top](#top)
-
-### Pinyin 拼音注音 + English Translation 英文翻译 (PDF File) <a name="pinyin"></a>
-<a href="/SRJKC_resources/doc/year5/year5_text1.pdf" target="_blank">1 实力会说话 [pg. 3-8]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text2.pdf" target="_blank">2 风中的树苗 [pg. 9-12]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text3.pdf" target="_blank">3 告别网络游戏的汤姆 [pg. 16-22]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text4.pdf" target="_blank">4 我诚实我守信 [pg. 23-27]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text5.pdf" target="_blank">5 英雄有泪 [pg. 30-35]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text6.pdf" target="_blank">6 小老鼠与乌鸦 [pg. 40-44]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text7.pdf" target="_blank">7 向牵牛花学习 [pg. 48-53]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text8.pdf" target="_blank">8 雨后的线索[pg. 54-58]</a>\
-<a href="/SRJKC_resources/doc/year5/year5_text9.pdf" target="_blank">9 笑谈端午 [pg. 62-68]</a>
-
-_Other chapters will be made available soon_
+1. 科学技能 Science Skills - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+2. 人类 Humans - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+3. 动物 Animals - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+4. 植物 Plants - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+5. 电 Electricity - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+6. 热 Heat - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+7. 生锈 Rusting - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+8. 物质 Matter - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+9. 月相和星座 Phases of the Moon and Constellations - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
+10. 机械 Machines - <br />
+   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[习字 Writing Exercises]
 
 [Back to Top](#top)
 
