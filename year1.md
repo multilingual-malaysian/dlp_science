@@ -16,34 +16,34 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 ---
 
 1. 科学技能 Scientific Skills - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 2. 科学室规则 Science Room Rules - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 3. 生物和非生物 Living Things and Non-living Things - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 4. 人类 Humans - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 5. 动物 Animals - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 6. 植物 Plants - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 7. 磁铁 Magnets - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 8. 吸水能力 Absorption - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 9. 地球 The Earth - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 10. 基本建筑 Basics of Building - <br />
-   &emsp;[Flipbook] OR [PDF]<br />
+   &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
    
 [Back to Top](#top)
