@@ -18,7 +18,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
 1. 科学技能 Scientific Skills - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 2. 科学规则 Science Room Rules - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
-3. 人类 Humans - &emsp;<a href="https://online.fliphtml5.com/pjnuy/mbbp/" target="_blank">[Flipbook]</a>&emsp; <a href="/SRJKC_resources/doc/year3/sc_year3_chapter3.pdf" target="_blank">[PDF]</a>&emsp;[习字 Writing Exercises]
+3. 人类 Humans - &emsp;<a href="https://online.fliphtml5.com/pjnuy/mbbp/" target="_blank">[Flipbook]</a>&emsp; <a href="/dlp_science/doc/year3/sc_year3_chapter3.pdf" target="_blank">[PDF]</a>&emsp;[习字 Writing Exercises]
 4. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 5. 植物 Plants - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 6. 测量 Measurement - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
