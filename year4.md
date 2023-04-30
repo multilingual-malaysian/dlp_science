@@ -2,7 +2,7 @@
 title: "四年级 Year 4" 
 feature_text: |
   <a href="top"></a>
-feature_image: "/SRJKC_resources/assets/images/BC_4_cover1.jpg"
+feature_image: "/dlp_science/assets/images/SC_4_cover.jpg"
 excerpt: "Resource centre for Bahasa Cina Tahun 4 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
