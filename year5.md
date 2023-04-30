@@ -2,7 +2,7 @@
 title: 五年级 Year 5 
 feature_text: |
   <a href="top"></a>
-feature_image: "/SRJKC_resources/assets/images/BC_5_cover.png"
+feature_image: "/dlp_science/assets/images/SC_5_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
