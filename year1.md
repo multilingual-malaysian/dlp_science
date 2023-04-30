@@ -6,17 +6,15 @@ feature_image: "/dlp_science/assets/images/SC_1_cover.png"
 excerpt: "Science Year 1"
 ---
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
-- [Textbook Audio books 课文朗读](#audio)
 - Other sources:
   - Textbook Youtube Channels: [List of Youtube links](#videos)
   - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https://multilingual-malaysian.github.io/SRJKC_resources/year1/&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 ---
 
 1. 科学技能 Scientific Skills - <br />
-   &emsp;[Flipbook] / [PDF]<br />
+   &emsp;[Dual language - Flipbook] <br />
+   &emsp;[Printable (Chinese only) - PDF]<br />
    &emsp;[习字 Writing Exercises]
 2. 科学室规则 Science Room Rules - <br />
    &emsp;[Flipbook] / [PDF]<br />
