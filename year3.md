@@ -2,7 +2,7 @@
 title: 三年级 Year 3 
 feature_text: |
   <a href="top"></a>
-feature_image: "/SRJKC_resources/assets/images/BC_3_cover1.png"
+feature_image: "/dlp_science/assets/images/SC_3_cover.png"
 excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
