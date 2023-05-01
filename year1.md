@@ -6,7 +6,7 @@ feature_image: "/dlp_science/assets/images/SC_1_cover.png"
 excerpt: "Science Year 1"
 ---
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear2%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2Fdlp_science%2Fyear1%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 1. 科学技能 Scientific Skills - <br />
    &emsp;[Dual language - Flipbook] <br />
