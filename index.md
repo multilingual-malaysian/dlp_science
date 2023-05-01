@@ -9,12 +9,12 @@ aside: True
 ---
 Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
 
-{% include figure.html image="/SRJKC_resources/assets/default-social-image-small.png" alt="SRJKC Resource Centre" %}
+{% include figure.html image="/dlp_science/assets/default-social-image-small.png" alt="Science in Dual Language" %}
 
 SRJKC Resource Centre is a site that contains a number of key resources to help students in learning Chinese. The resources are based on SRJKC Chinese Textbooks.
 
 #### What are the available resources?
-![alt text](/SRJKC_resources/assets/images/content.png)
+![alt text](/dlp_science/assets/images/content.png)
 1. **Audio reading** of each chapter. 课文朗读 (MP3 格式） 
 2. Original Chinese text with **Hanyu Pinyin** and **English translation** (PDF file). 课文加了拼音注音， 和英文的翻译 （PDF格式）
  
