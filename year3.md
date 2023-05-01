@@ -7,16 +7,13 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 ---
 ![HitCount](https://hits.dwyl.com/multilingual-malaysian/dlp_science.svg?style=flat-square)
 
-- [Textbook Audio books （课文朗读)](#audio)
-- [Textbook Pinyin 拼音注音 + English Translation 英文翻译](#pinyin)
-- Other sources:
-  - Textbook Youtube Channels: [List of Youtube links](#videos)
-  - Workbook reference answers: [List of Facebook posts and Youtube links](#workbook)
-
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2FSRJKC_resources%2Fyear3%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2Fdlp_science%2Fyear3%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
-1. 科学技能 Scientific Skills - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+1. 科学技能 Scientific Skills - <br />
+   &emsp;[Dual language - Flipbook] <br />
+   &emsp;[Printable (Chinese only) - PDF]<br />
+   &emsp;[习字 Writing Exercises]
 2. 科学规则 Science Room Rules - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 3. 人类 Humans - &emsp;<a href="https://online.fliphtml5.com/pjnuy/mbbp/" target="_blank">[Flipbook]</a>&emsp; <a href="/dlp_science/doc/year3/sc_year3_chapter3.pdf" target="_blank">[PDF]</a>&emsp;[习字 Writing Exercises]
 4. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
@@ -27,19 +24,15 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 9. 太阳系 The Solar System - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 10. 机械 Machine - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 
-
 [Back to Top](#top)
 
 ----
 ## Textbook Youtube Channels<a name="videos"></a>
 - [教育小课堂WING老师](https://youtube.com/playlist?list=PLLQYH_wAFVF8sRReEBoP89VI28g2gJCvD)
-- [YH Channel](https://youtube.com/playlist?list=PL5o5V0axbg-PS8YuCWNlDhsCauAxMY3Py)
-- [Teacher Kon](https://youtube.com/playlist?list=PLjI8qVK2iMkVZdRY3irrjAjewd0aNEi3N)
 
 ## Workbook reference answers<a name="workbook"></a>
 - Facebook posts
   - [海洋教育Ocean Education Jilid 1](https://www.facebook.com/103156078242684/posts/129560802268878/)
-  - [海洋教育Ocean Education Jilid 2](https://www.facebook.com/ocedu.co/posts/151268180098140/)
 - Youtube Channels
   - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxExkAKD7CNHh5SGz84ebl5I-)
-  - [KITTY CHU 老师](https://youtube.com/playlist?list=PLN6YLweGbzq4PrbsAfLj6LZgMFJlfBeK2)
+
