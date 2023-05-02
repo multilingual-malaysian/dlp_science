@@ -14,8 +14,9 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
    &emsp;[Printable (Chinese only) - PDF]<br />
    &emsp;[习字 Writing Exercises]
 2. 人类 Humans - <br />
-   &emsp;[Flipbook] / [PDF]<br />
-   &emsp;[习字 Writing Exercises]
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/oypq/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year5/sc_year5_chinese_chapter2.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;<a href="/dlp_science/doc/year5/sc_year5_chapter2_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 3. 动物 Animals - <br />
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
