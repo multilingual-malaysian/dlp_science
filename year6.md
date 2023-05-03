@@ -14,7 +14,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
    &emsp;[Printable (Chinese only) - PDF]<br />
    &emsp;[习字 Writing Exercises]
 2. 人类 Humans- <br />
-   &emsp;<a href="https://online.fliphtml5.com/pjnuy/oypq/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/xlav/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter2_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter2_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 3. 微生物 Microorganisms - <br />
