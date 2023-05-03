@@ -9,7 +9,6 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmultilingual-malaysian.github.io%2Fdlp_science%2Fyear3%2F&width=174&layout=button_count&action=like&size=large&share=true&height=46&appId" width="174" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
----
 1. 科学技能 Scientific Skills - <br />
    &emsp;[Dual language - Flipbook] <br />
    &emsp;[Printable (Chinese only) - PDF]<br />
