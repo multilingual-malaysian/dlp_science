@@ -19,8 +19,9 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 4. 人类 Humans - <br />
-   &emsp;[Flipbook] / [PDF]<br />
-   &emsp;[习字 Writing Exercises]
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/owtu/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year1/sc_year1_chinese_chapter4.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;[习字贴 Writing Exercises]
 5. 动物 Animals - <br />
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
