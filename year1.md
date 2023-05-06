@@ -23,7 +23,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter4_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;[习字贴 Writing Exercises]
 5. 动物 Animals - <br />
-   &emsp;<a href="https://online.fliphtml5.com/pjnuy/owtu/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/pewv/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter5_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter5_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 6. 植物 Plants - <br />
