@@ -18,7 +18,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 2 text book"
    &emsp;<a href="https://online.fliphtml5.com/pjnuy/bqaa/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year2/sc_year2_chapter3_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year2/sc_year2_chapter3_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
-4. 动物 Animals
+4. 动物 Animals - <br />
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/rrfl/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year2/sc_year2_chapter4_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;<a href="/dlp_science/doc/year2/sc_year2_chapter4_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 5. 植物 Plants
 6. 光和暗 Light and Dark
 7. 电 Electricity
