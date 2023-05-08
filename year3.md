@@ -18,7 +18,10 @@ excerpt: "Resource centre for Bahasa Cina Tahun 3 text book"
    &emsp;<a href="https://online.fliphtml5.com/pjnuy/comz/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year3/sc_year3_chinese_chapter3.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year3/sc_year3_chapter3_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
-4. 动物 Animals - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
+4. 动物 Animals - <br />
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/nwll/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year3/sc_year3_chapter4_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;<a href="/dlp_science/doc/year3/sc_year3_chapter4_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 5. 植物 Plants - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 6. 测量 Measurement - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
 7. 密度 Density - &emsp;[Flipbook]&emsp; [PDF]&emsp;[习字 Writing Exercises]
