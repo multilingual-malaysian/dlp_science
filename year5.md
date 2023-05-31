@@ -18,8 +18,8 @@ excerpt: "Resource centre for Bahasa Cina Tahun 5 text book"
    &emsp;<a href="/dlp_science/doc/year5/sc_year5_chapter2_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year5/sc_year5_chapter2_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 3. 动物 Animals - <br />
-   &emsp;[Flipbook] / [PDF]<br />
-   &emsp;[习字 Writing Exercises]
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/mdon/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year5/sc_year5_chapter3_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
 4. 植物 Plants - <br />
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
