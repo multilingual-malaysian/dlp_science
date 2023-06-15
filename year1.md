@@ -16,8 +16,9 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
 3. 生物和非生物 Living Things and Non-living Things - <br />
-   &emsp;[Flipbook] / [PDF]<br />
-   &emsp;[习字 Writing Exercises]
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/cius/" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter3_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter3_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 4. 人类 Humans - <br />
    &emsp;<a href="https://online.fliphtml5.com/pjnuy/owtu/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter4_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
