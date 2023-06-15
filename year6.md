@@ -18,7 +18,7 @@ excerpt: "Resource centre for Bahasa Cina Tahun 6 text book"
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter2_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter2_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 3. 微生物 Microorganisms - <br />
-   &emsp;<a href="" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="https://online.fliphtml5.com/pjnuy/tlib/" target="_blank">[Dual language - Flipbook]</a> <br />
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter3_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year6/sc_year6_chapter3_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 4. 生物之间的互相关系 Interaction among Living Things - <br />
