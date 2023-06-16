@@ -46,10 +46,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 [Back to Top](#top)
 
 ----
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 
 [Back to Top](#top)
