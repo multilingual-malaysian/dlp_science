@@ -46,15 +46,10 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 [Back to Top](#top)
 
 ----
-### Textbook Youtube Channels<a name="videos"></a>
-- [张小婷](https://www.youtube.com/channel/UC6hPxFH8ofK_iQTc7LYwb6w/videos)
-
-
-### Workbook reference answers<a name="workbook"></a>
-- Facebook posts
-  - [快乐学习网上教育 Jilid 1](https://www.facebook.com/102603841643062/posts/142725344297578)
-- Youtube Channels
-  - [一起学 YiQiXue](https://youtube.com/playlist?list=PLQyq8ZxexxEzjW6LbD7b5r9DSNNMW0aj2)
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 
 [Back to Top](#top)
