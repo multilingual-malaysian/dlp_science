@@ -46,7 +46,7 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
 [Back to Top](#top)
 
 ----
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="400" %}
 
 ### Product Name 
 asdfasdfasdf\
