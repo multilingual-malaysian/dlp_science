@@ -28,8 +28,9 @@ Number of page visits: ![HitCount](https://hits.dwyl.com/multilingual-malaysian/
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter5_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
    &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter5_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 6. 植物 Plants - <br />
-   &emsp;[Flipbook] / [PDF]<br />
-   &emsp;[习字 Writing Exercises]
+   &emsp;<a href="" target="_blank">[Dual language - Flipbook]</a> <br />
+   &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter6_chinese.pdf" target="_blank">[Printable (Chinese only) - PDF]</a><br />
+   &emsp;<a href="/dlp_science/doc/year1/sc_year1_chapter6_writing.pdf" target="_blank">[习字贴 Writing Exercises]</a>
 7. 磁铁 Magnets - <br />
    &emsp;[Flipbook] / [PDF]<br />
    &emsp;[习字 Writing Exercises]
